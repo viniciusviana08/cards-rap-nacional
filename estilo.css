@@ -147,6 +147,8 @@ body {
    text-decoration: none;
    border-radius: 10px;
    transition: 0.5s;
+   font-size: 17px;
+   padding-top: 15px;
     
 }
 .card:hover .lermais{
